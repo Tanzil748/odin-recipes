@@ -1,2 +1,2 @@
 # odin-recipes
-a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it.
+Built a simple recipe page with three recipes. Used basic html to add headings, insert images, and used ordered/unordered lists.
